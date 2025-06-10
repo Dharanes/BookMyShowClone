@@ -12,7 +12,8 @@ The application is composed of several microservices, each handling a specific d
 - **Payment Service**: Processes payments for completed bookings.
 - **Gateway**: Utilizes Spring Cloud Gateway to route requests to the appropriate microservices.
 
-![Architecture Diagram](docs/architecture-diagram.png)
+![BookMyShowERD](https://github.com/user-attachments/assets/85972318-ceb5-4c93-b584-31aa8254c399)
+
 
 ## Tech Stack
 | Component       | Technology          |
