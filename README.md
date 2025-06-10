@@ -1,7 +1,5 @@
 # BookMyShowClone
 
-# Cinema Booking System
-
 ## Overview
 This project is a reactive cinema booking system designed to allow users to browse movies, check showtimes, book seats, and make payments online. It leverages a microservices architecture built with Spring Boot and Spring WebFlux, is secured with Spring Security, and features a React-based frontend. Images, such as movie posters, are stored in Amazon S3.
 
@@ -40,7 +38,7 @@ Follow these steps to set up and run the application locally:
    ```bash
    git clone https://github.com/Dharanes/BookMyShowClone.git
 
-# Cinema Booking System Database Schema
+## Cinema Booking System Database Schema
 
 This document outlines the database schema for a cinema booking system, detailing tables, columns, data types, descriptions, and relationships between entities.
 
